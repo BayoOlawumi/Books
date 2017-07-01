@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">216</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">056c66a3-2713-47de-84f6-ad8459395f4e</dc:identifier>
+        <dc:title>Two Scoops of Django: Best Practices for Django 1.8</dc:title>
+        <dc:creator opf:file-as="Daniel Roy Greenfeld, Audrey Roy Greenfeld" opf:role="aut">Daniel Roy Greenfeld, Audrey Roy Greenfeld</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.75.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Best Practices for Django</dc:subject>
+        <dc:subject>Django</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>web framework</dc:subject>
+        <dc:subject>web development</dc:subject>
+        <meta content="{&quot;Daniel Roy Greenfeld, Audrey Roy Greenfeld&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-06-06T15:49:47+00:00" name="calibre:timestamp"/>
+        <meta content="Two Scoops of Django: Best Practices for Django 1.8" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Two Scoops of Django_ Best Practices for Django 1.8 - Daniel Roy Greenfeld, Audrey Roy Greenfeld.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

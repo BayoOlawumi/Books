@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">222</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2e6a66d-702d-43c8-9aa0-79d0559c5bd2</dc:identifier>
+        <dc:title>Learn PHP 7 Object Oriented Modular Programming using HTML5, CSS3, JavaScript, XML, JSON, and MySQL-Apress (2016)</dc:title>
+        <dc:creator opf:file-as="Steve" opf:role="aut">Steve</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.75.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-29T06:57:18+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Steve&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Prettyman" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2017-06-06T15:49:55+00:00" name="calibre:timestamp"/>
+        <meta content="Learn PHP 7 Object Oriented Modular Programming using HTML5, CSS3, JavaScript, XML, JSON, and MySQL-Apress (2016)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Learn PHP 7 Object Oriented Modular Programming using H JavaScript, XML, JSON, and MySQL-Apress (2016) - Steve.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
